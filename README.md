@@ -8,3 +8,9 @@ End to end machine learning project with Docker Github actions and deployment on
 2. [VsCodeIDE](https://code.visualstudio.com/)
 3. [Herokuaccont](https://heroku.com/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+
+Creating a new environment
+'''
+conda create -p env python==3.7 -y
+
+'''
